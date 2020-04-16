@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/r">
+        <file>resource/bainyiqi.png</file>
+        <file>resource/bianyi.png</file>
+        <file>resource/C.png</file>
+        <file>resource/chongzuo.png</file>
+        <file>resource/close.png</file>
+        <file>resource/fuzhi.png</file>
+        <file>resource/huifu.png</file>
+        <file>resource/jianqie.png</file>
+        <file>resource/new.png</file>
+        <file>resource/open.png</file>
+        <file>resource/quanxuan.png</file>
+        <file>resource/shanchu.png</file>
+        <file>resource/sousuo.png</file>
+        <file>resource/sto.png</file>
+        <file>resource/tianjia.png</file>
+        <file>resource/tihuan.png</file>
+        <file>resource/yunxing.png</file>
+        <file>resource/zhantie.png</file>
+    </qresource>
+</RCC>
